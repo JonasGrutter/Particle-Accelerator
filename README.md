@@ -6,9 +6,9 @@ This programming project simulates a particle accelerator. 3 ways to use the acc
 # How does it work ?
 
 This project is coded in C++. To make it work (text simulation), you need a compiler supporting the C++ 17 standard norm. For the graphics part Qt is needed. The project is separated in 3 files:
-- "Particle_and_beam"
-- "Graphics"
-- "Interraction_and_Extension"
+- "Particule"
+- "Particule_et_Faisceau"
+- "Mailles fodo"
 
 The first file allows the simulation of particles (ExerciseP10) and beams without taking into account the interactions for the particles (ExerciseP11).
 The second file allows a graphical simulation of particles and beams without taking into account the interactions between the particles using QT.
