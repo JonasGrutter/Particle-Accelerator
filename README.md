@@ -21,7 +21,7 @@ To compile and run the first and last file, proceed as follows:
 - Execute the desired file with the command "filename.exe" (Windows) or with "./filename" (Linux)
 
 The tests launched when running the "ExercisePx" files create an accelerator, display the 20 elements that compose it and the characteristics of the two particles/beams to be added. Then the particles/beams are added to the accelerator and their evolution is followed by displaying their main characteristics.
-We have created two graphics files, one simulating particles and the other simulating beams (Graphics_Beams, Graphics_Particles)
+We have created two graphics files, one simulating particles and the other simulating beams (Graphisme_Faisceaux, Graphisme_Particules)
 To simulate the graphical part, proceed as follows
 - Open the terminal
 - Go to the file in question ( )
