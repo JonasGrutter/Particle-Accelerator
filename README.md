@@ -1,5 +1,5 @@
 # Particle-Accelerator
-This was my first coding project when I was a first year student at EPFL in 2019.
+This was my first coding project when I was a first year student at EPFL in 2019. I did this project with my friend Chloé Mondon.
 
 This programming project simulates a particle accelerator. 3 ways to use the accelerator are offered. The first is to simulate single particles without taking into account the interactions between them, the second is to use particle beams, again without taking into account the interactions. Finally, our accelerator allows us to simulate particle beams taking into account the forces between the particles.
 
